@@ -27,7 +27,6 @@ const CourseList = React.createClass({
     });
     return (
       <div>
-        <h3>Kurs</h3>
         {icons}
       </div>
     );
