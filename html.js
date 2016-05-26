@@ -1,7 +1,7 @@
-import React, {PropTypes} from 'react'
-import DocumentTitle from 'react-document-title'
+import React, {PropTypes} from 'react';
+import DocumentTitle from 'react-document-title';
 
-import { prefixLink } from 'gatsby-helpers'
+import { prefixLink } from 'gatsby-helpers';
 //import { TypographyStyle } from 'utils/typography'
 
 
@@ -33,8 +33,8 @@ const Html = React.createClass({
           <script src={prefixLink('/bundle.js')} />
         </body>
       </html>
-    )
-  },
+    );
+  }
 });
 
 Html.propTypes = {
