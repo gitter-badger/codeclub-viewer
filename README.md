@@ -1,4 +1,6 @@
 # codeclub-viewer
+
+[![Join the chat at https://gitter.im/NorwegianKiwi/codeclub-viewer](https://badges.gitter.im/NorwegianKiwi/codeclub-viewer.svg)](https://gitter.im/NorwegianKiwi/codeclub-viewer?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 A viewer to display codeclub lessons
 
 ## Getting started
